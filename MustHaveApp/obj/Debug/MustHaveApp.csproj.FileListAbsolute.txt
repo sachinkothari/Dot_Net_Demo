@@ -1,0 +1,4 @@
+D:\AWSDemoApp\MustHaveApp\MustHaveApp\bin\MustHaveApp.dll
+D:\AWSDemoApp\MustHaveApp\MustHaveApp\bin\MustHaveApp.pdb
+D:\AWSDemoApp\MustHaveApp\MustHaveApp\obj\Debug\MustHaveApp.dll
+D:\AWSDemoApp\MustHaveApp\MustHaveApp\obj\Debug\MustHaveApp.pdb
